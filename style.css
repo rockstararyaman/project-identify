@@ -1,0 +1,63 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(10, 120, 20);
+
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+  }
+  
+  .heading_div {
+    float: none;
+    background: white;
+    padding: .1px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 20px 20px 20px black;
+  }
+
+img {
+    height: 300px;
+    width: 220px;
+    margin-top: 80px;
+    margin-left: 20px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(67, 234, 21);
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+
+h1 {
+    margin-left: 20px;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: 800;
+    color: rgb(255, 133, 10);
+    margin-left: 20px;
+}
+
+h3 {
+    font-style: italic;
+    color: black;
+}
